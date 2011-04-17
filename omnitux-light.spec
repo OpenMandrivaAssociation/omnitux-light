@@ -47,7 +47,7 @@ install -d %{buildroot}%{_datadir}/applications
 
 cp -r ./* %{buildroot}%{_datadir}/%{name}/
 cp omnitux-light.sh %{buildroot}%{_bindir}/
-cp omnitux.desktop %{buildroot}%{_datadir}/applications/
+cp omnitux-light.desktop %{buildroot}%{_datadir}/applications/
 
 
 
