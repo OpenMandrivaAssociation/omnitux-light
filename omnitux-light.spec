@@ -13,7 +13,7 @@ Release: 	%mkrel 1
 Summary: 	Educational activities based on multimedia elements.
 Group:   	Educational
 License: 	GPLv2
-URL:     	http://omnitux.sourceforge.net/
+URL:     	https://omnitux.sourceforge.net/
 Source:  	%{name}-%{version}.tar.bz2
 BuildArch:	noarch
 BuildRoot: 	%{_tmppath}/%{name}-%{version}-root
