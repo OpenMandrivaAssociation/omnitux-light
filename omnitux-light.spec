@@ -9,7 +9,7 @@ Vendor:         Sergey Zhemoitel <http://djam.spb.ru>
 Packager:       Sergey Zhemoitel <djam5@ya.ru>
 Name: 		omnitux-light
 Version: 	1.2.0
-Release: 	%mkrel 1
+Release: 	2
 Summary: 	Educational activities based on multimedia elements.
 Group:   	Educational
 License: 	GPLv2
